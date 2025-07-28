@@ -2,7 +2,6 @@
   "name": "tic-tac-toe-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://CodingWith-Adam.github.io/tic-tac-toe-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
